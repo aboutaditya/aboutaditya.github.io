@@ -1,4 +1,4 @@
-// import { initializeApp } from 'firebase/app';
+import { initializeApp } from 'firebase/app';
 
 /*==================== MENU SHOW Y HIDDEN ====================*/
 const navMenu=document.getElementById('nav-menu'),
