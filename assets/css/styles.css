@@ -464,8 +464,8 @@ img {
   padding: 0 1.5rem;
 }
 .portfolio__img{
-  height: 280px;
-  width: 340px;
+  height: auto;
+  width: auto;
   border-radius: .5rem;
   justify-self: center;
 }
